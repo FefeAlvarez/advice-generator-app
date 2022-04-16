@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/screenshotApp.png)
+![screenshot](./src/design/screenshotApp.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/FefeAlvarez/advice-generator-app)
+- Live Site URL: [Add live site URL here](https://advice-generator-app-nine-lake.vercel.app/)
 
 ### Built with
 
