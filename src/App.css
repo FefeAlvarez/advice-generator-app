@@ -4,5 +4,5 @@
   align-items: center;
   justify-content: center;
   background-color: var(--DarkBlue);
-  height: 100vh;
+  min-height: 100vh;
 }
