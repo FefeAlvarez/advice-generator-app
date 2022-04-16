@@ -1,0 +1,10 @@
+.attribution {
+  margin-top: 4rem;
+}
+.attribution a {
+  text-decoration: none;
+}
+.attribution p {
+  font-family: "Manrope", sans-serif;
+  color: var(--LightCyan);
+}
